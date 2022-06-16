@@ -1,0 +1,3 @@
+[submodule "learn-git-submodule"]
+	path = learn-git-submodule
+	url = git@github.com:learn-world/learn-git-submodule.git
